@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#erlojua { font-size: 20px; font-weight: bold; text-align: right; }
+#katalogoa { display: flex; flex-wrap: wrap; gap: 10px; }
+.txartela { border: 1px solid #999; border-radius: 6px; padding: 10px; width: 180px; }
+/* 3. Aukerakoa: txartela saskian badago */
+.saskian { background-color: #d4f5d4; border-color: green; }
